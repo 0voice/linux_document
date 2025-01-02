@@ -88,6 +88,25 @@
 ##### []()
 ##### []()
 ##### []()
+
+
+<br/>
+
+<h2 id="nav_7">🌅 其他命令</h2>
+
+##### [远程文件复制：scp.md](https://github.com/0voice/linux_document/blob/main/%E8%BF%9C%E7%A8%8B%E6%96%87%E4%BB%B6%E5%A4%8D%E5%88%B6%EF%BC%9Ascp.md)
+##### [locate查找.md](https://github.com/0voice/linux_document/blob/main/locate%E6%9F%A5%E6%89%BE.md)
+##### [which命令.md](https://github.com/0voice/linux_document/blob/main/which%E5%91%BD%E4%BB%A4.md)
+##### [echo.md](https://github.com/0voice/linux_document/blob/main/echo.md)
+##### [设置或显示环境变量：export.md](https://github.com/0voice/linux_document/blob/main/%E8%AE%BE%E7%BD%AE%E6%88%96%E6%98%BE%E7%A4%BA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%9Aexport.md)
+##### [修改主机名&ip地址.md](https://github.com/0voice/linux_document/blob/main/%E4%BF%AE%E6%94%B9%E4%B8%BB%E6%9C%BA%E5%90%8D%26ip%E5%9C%B0%E5%9D%80.md)
+##### [mount挂载.md](https://github.com/0voice/linux_document/blob/main/mount%E6%8C%82%E8%BD%BD.md)
+##### []()
+##### []()
+##### []()
+##### []()
+
+
 <br/>
 
 <h2 id="nav_7">🌅 特殊权限</h2>
