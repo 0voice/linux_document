@@ -12,10 +12,6 @@
 ##### [Minix没有火起来的原因.md](https://github.com/0voice/linux_document/blob/main/Minix%E6%B2%A1%E6%9C%89%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%8E%9F%E5%9B%A0.md)
 ##### []()
 ##### []()
-##### []()
-##### []()
-##### []()
-##### []()
 
 
 <br/>
@@ -26,11 +22,6 @@
 ##### [类Unix系统目录结构.md](https://github.com/0voice/linux_document/blob/main/%E7%B1%BBUnix%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.md)
 ##### [Linux目录.md](https://github.com/0voice/linux_document/blob/main/Linux%E7%9B%AE%E5%BD%95.md)
 ##### [用户目录.md](https://github.com/0voice/linux_document/blob/main/%E7%94%A8%E6%88%B7%E7%9B%AE%E5%BD%95.md)
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
 ##### []()
 ##### []()
 
@@ -46,9 +37,6 @@
 ##### [命令行中的ctrl组合键.md](https://github.com/0voice/linux_document/blob/main/%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%AD%E7%9A%84ctrl%E7%BB%84%E5%90%88%E9%94%AE.md)
 ##### []()
 ##### []()
-##### []()
-##### []()
-##### []()
 
 
 <br/>
@@ -62,7 +50,6 @@
 ##### [系统管理.md](https://github.com/0voice/linux_document/blob/main/%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86.md)
 ##### [Linux 磁盘管理.md](https://github.com/0voice/linux_document/blob/main/Linux%20%E7%A3%81%E7%9B%98%E7%AE%A1%E7%90%86.md)
 ##### [Linux管道命令.md](https://github.com/0voice/linux_document/blob/main/Linux%E7%AE%A1%E9%81%93%E5%91%BD%E4%BB%A4.md)
-##### []()
 ##### []()
 ##### []()
 
@@ -85,9 +72,6 @@
 ##### [进程控制.md](https://github.com/0voice/linux_document/blob/main/%E8%BF%9B%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
 ##### []()
 ##### []()
-##### []()
-##### []()
-##### []()
 
 
 <br/>
@@ -104,7 +88,6 @@
 ##### [ssh免密登陆.md](https://github.com/0voice/linux_document/blob/main/ssh%E5%85%8D%E5%AF%86%E7%99%BB%E9%99%86.md)
 ##### []()
 ##### []()
-##### []()
 
 
 
@@ -115,11 +98,6 @@
 ##### [与用户账号有关的系统文件.md](https://github.com/0voice/linux_document/blob/main/%E4%B8%8E%E7%94%A8%E6%88%B7%E8%B4%A6%E5%8F%B7%E6%9C%89%E5%85%B3%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6.md)
 ##### [实操.md](https://github.com/0voice/linux_document/blob/main/%E5%AE%9E%E6%93%8D.md)
 ##### [crontab的使用.md](https://github.com/0voice/linux_document/blob/main/crontab%E7%9A%84%E4%BD%BF%E7%94%A8.md)
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
 ##### []()
 ##### []()
 
@@ -134,29 +112,42 @@
 ##### [掩码umask.md](https://github.com/0voice/linux_document/blob/main/%E6%8E%A9%E7%A0%81umask.md)
 ##### []()
 ##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
 
 
 <br/>
 
 <h2 id="nav_7">🌅 Linux软件安装</h2>
 
+##### [Ubuntu软件安装与卸载.md](https://github.com/0voice/linux_document/blob/main/Ubuntu%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E5%8D%B8%E8%BD%BD.md)
 ##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
+
+
+<br/>
+
+<h2 id="nav_7">🌅 yum安装命令</h2>
+
+##### [更新国内yum源.md](https://github.com/0voice/linux_document/blob/main/%E6%9B%B4%E6%96%B0%E5%9B%BD%E5%86%85yum%E6%BA%90.md)
+##### [yum常用命令.md](https://github.com/0voice/linux_document/blob/main/yum%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+##### [yum在线安装MySQL5.7.md](https://github.com/0voice/linux_document/blob/main/yum%E5%9C%A8%E7%BA%BF%E5%AE%89%E8%A3%85MySQL5.7.md)
+##### [rpm.md](https://github.com/0voice/linux_document/blob/main/rpm.md)
 ##### []()
 ##### []()
 
+<br/>
+
+<h2 id="nav_7">🌅 Shell编程</h2>
+
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
+##### []()
 
 <br/>
 
