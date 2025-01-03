@@ -101,20 +101,37 @@
 ##### [设置或显示环境变量：export.md](https://github.com/0voice/linux_document/blob/main/%E8%AE%BE%E7%BD%AE%E6%88%96%E6%98%BE%E7%A4%BA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%9Aexport.md)
 ##### [修改主机名&ip地址.md](https://github.com/0voice/linux_document/blob/main/%E4%BF%AE%E6%94%B9%E4%B8%BB%E6%9C%BA%E5%90%8D%26ip%E5%9C%B0%E5%9D%80.md)
 ##### [mount挂载.md](https://github.com/0voice/linux_document/blob/main/mount%E6%8C%82%E8%BD%BD.md)
+##### [ssh免密登陆.md](https://github.com/0voice/linux_document/blob/main/ssh%E5%85%8D%E5%AF%86%E7%99%BB%E9%99%86.md)
+##### []()
+##### []()
+##### []()
+
+
+
+<br/>
+
+<h2 id="nav_7">🌅 批量添加用户</h2>
+
+##### [与用户账号有关的系统文件.md](https://github.com/0voice/linux_document/blob/main/%E4%B8%8E%E7%94%A8%E6%88%B7%E8%B4%A6%E5%8F%B7%E6%9C%89%E5%85%B3%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6.md)
+##### [实操.md](https://github.com/0voice/linux_document/blob/main/%E5%AE%9E%E6%93%8D.md)
+##### [crontab的使用.md](https://github.com/0voice/linux_document/blob/main/crontab%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 ##### []()
 ##### []()
 ##### []()
 ##### []()
+##### []()
+##### []()
+##### []()
+
 
 
 <br/>
 
 <h2 id="nav_7">🌅 特殊权限</h2>
 
-##### []()
-##### []()
-##### []()
-##### []()
+##### [三种特殊的权限.md](https://github.com/0voice/linux_document/blob/main/%E4%B8%89%E7%A7%8D%E7%89%B9%E6%AE%8A%E7%9A%84%E6%9D%83%E9%99%90.md)
+##### [chattr权限.md](https://github.com/0voice/linux_document/blob/main/chattr%E6%9D%83%E9%99%90.md)
+##### [掩码umask.md](https://github.com/0voice/linux_document/blob/main/%E6%8E%A9%E7%A0%81umask.md)
 ##### []()
 ##### []()
 ##### []()
