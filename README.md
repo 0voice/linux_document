@@ -135,35 +135,65 @@
 
 <br/>
 
-<h2 id="nav_7">🌅 Shell编程</h2>
+<h2 id="nav_7">🌅 Linux的基本配置</h2>
 
+##### [Linux的基本配置.md](https://github.com/0voice/linux_document/blob/main/Linux%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE.md)
+##### [安装JDK.md](https://github.com/0voice/linux_document/blob/main/%E5%AE%89%E8%A3%85JDK.md)
+##### [制作本地YUM源.md](https://github.com/0voice/linux_document/blob/main/%E5%88%B6%E4%BD%9C%E6%9C%AC%E5%9C%B0YUM%E6%BA%90.md)
 ##### []()
 ##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
+
 
 <br/>
 
 <h2 id="nav_7">🌅 Shell编程</h2>
 
+##### [Shell编程.md](https://github.com/0voice/linux_document/blob/main/Shell%E7%BC%96%E7%A8%8B.md)
+
+
+<br/>
+
+<h2 id="nav_7">🌅 Shell编程入门</h2>
+
+##### [运行Shell脚本.md](https://github.com/0voice/linux_document/blob/main/%E8%BF%90%E8%A1%8CShell%E8%84%9A%E6%9C%AC.md)
+##### [编写一个快捷创建shell脚本的命令.md](https://github.com/0voice/linux_document/blob/main/%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA%E5%BF%AB%E6%8D%B7%E5%88%9B%E5%BB%BAshell%E8%84%9A%E6%9C%AC%E7%9A%84%E5%91%BD%E4%BB%A4.md)
+##### [echo命令.md](https://github.com/0voice/linux_document/blob/main/echo%E5%91%BD%E4%BB%A4.md)
+##### [printf 命令.md](https://github.com/0voice/linux_document/blob/main/printf%20%E5%91%BD%E4%BB%A4.md)
+##### [Shell 注释.md](https://github.com/0voice/linux_document/blob/main/Shell%20%E6%B3%A8%E9%87%8A.md)
 ##### []()
 ##### []()
+
+
+
+<br/>
+
+<h2 id="nav_7">🌅 Shell变量</h2>
+
+##### [定义变量.md](https://github.com/0voice/linux_document/blob/main/%E5%AE%9A%E4%B9%89%E5%8F%98%E9%87%8F.md)
+##### [使用变量.md](https://github.com/0voice/linux_document/blob/main/%E4%BD%BF%E7%94%A8%E5%8F%98%E9%87%8F.md)
+##### [只读变量.md](https://github.com/0voice/linux_document/blob/main/%E5%8F%AA%E8%AF%BB%E5%8F%98%E9%87%8F.md)
+##### [删除变量.md](https://github.com/0voice/linux_document/blob/main/%E5%88%A0%E9%99%A4%E5%8F%98%E9%87%8F.md)
+##### [变量类型.md](https://github.com/0voice/linux_document/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B.md)
 ##### []()
 ##### []()
+
+
+<br/>
+
+<h2 id="nav_7">🌅 Shell 函数</h2>
+
+##### [Shell 函数.md](https://github.com/0voice/linux_document/blob/main/Shell%20%E5%87%BD%E6%95%B0.md)
 ##### []()
+
+
+
+<br/>
+
+<h2 id="nav_7">🌅 文件包含</h2>
+
+##### [文件包含.md](https://github.com/0voice/linux_document/blob/main/%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB.md)
 ##### []()
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
+
 
 
 <br/>
